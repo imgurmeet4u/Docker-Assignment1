@@ -105,3 +105,5 @@
 • This command is used to build an image from a specified docker file.<br>
 • Ex- <b>docker build (path to docker file)</b><br>
 ![](images/docker_build.JPG)<br>
+
+###############################################################################################################################################################
